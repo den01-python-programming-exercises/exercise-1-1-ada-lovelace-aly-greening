@@ -6,9 +6,9 @@ The program template contains the following:
 ```python
 def main():
   #write your code below this line
-
+  print("Ada_Lovelace")
 if __name__ == '__main__':
-    main()
+   main()
 ```
 
 The line `# Write your program here` is a line comment, and the computer will ignore it when executing the program. Add a new line below the line comment that prints the string "Ada Lovelace" and run the program.
